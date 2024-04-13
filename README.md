@@ -1,6 +1,6 @@
 # Deutschland
 Dieses Projekt ist gut, aber falls du **STEHLEN MEIN PROJEKT ICH TÖTE DICH!!!**:blush:
-Этот проект очень хороший
+
 # Тест Руфье
 
 ## Описание
@@ -13,3 +13,4 @@ Dieses Projekt ist gut, aber falls du **STEHLEN MEIN PROJEKT ICH TÖTE DICH!!!**
 
 - Возможность ввода данных о пульсе до и после физической активности.
 - Автоматический расчет результата теста на основе введенных данных.
+- 
